@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+    margin: 10px;
+    height: 700px;
+    width: 850px;
+    background-color: aqua;
+    padding: 20px;
+    margin-left: 500px;
+}
+
+.box1{
+    margin: 10px;
+    height: 600px;
+    width: 250px;
+    background-color: azure;
+    padding: 20px;
+}
+
+.box2{
+    margin: 10px;
+    height: 600px;
+    width: 250px;
+    background-color: azure;
+    padding: 20px;
+}
+
+.box3{
+    margin: 10px;
+    height: 600px;
+    width: 250px;
+    background-color: azure;
+    padding: 20px;
+}
+
+.child1{
+    margin: 10px;
+    height: 200px;
+    width: 150px;
+    background-color: rgb(7, 232, 232);
+    padding: 20px;
+}
+
+.child2{
+    margin: 10px;
+    height: 200px;
+    width: 150px;
+    background-color: rgb(7, 232, 232);
+    padding: 20px;
+}
+
+.row1{
+    display: flex;
+    justify-content:center;
+    margin: 10px;
+    height: 150px;
+    width: 200px;
+    background-color: rgb(7, 232, 232);
+    padding: 20px;
+}
+
+.card1{
+    margin: 10px;
+    height: 80px;
+    width: 80px;
+    
+    padding: 10px;
+}
+
+.card2{
+    margin: 10px;
+    height: 80px;
+    width: 80px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.row2{
+    display: flex;
+    margin: 10px;
+    height: 100px;
+    width: 200px;
+    background-color: rgb(7, 232, 232);
+    padding: 20px;
+}
+
+.row3{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    height: 150px;
+    width: 200px;
+    background-color: rgb(7, 232, 232);
+    padding: 20px;}
+
+
+.card3{
+    margin: 10px;
+    height: 80px;
+    width: 300px;
+    
+    padding: 5px;
+}
+
+.card4{
+    margin: 10px;
+    height: 80px;
+    width: 80px;
+    
+    padding: 5px;}
